@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 New file
+=======
+   ncNew file
+nncn ca
+acnma cn 
+anm cna 
+Check the same in visual studio code 
+>>>>>>> ebe626f8cf1b5e1e9d0c63de868d8aba3a452016
